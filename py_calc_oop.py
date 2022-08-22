@@ -14,7 +14,7 @@ class calculator():
 a = int(input('Enter First number : '))
 b = int(input('Enter Second number : '))        
 
-# ---------------------- create a calculator object ----------------------
+# ---------------------- create a calculator object -----------------------
 obj = calculator (a,b)
 while True:
     def menu():
