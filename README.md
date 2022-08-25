@@ -1,4 +1,4 @@
-# py_calculator (OOP)
+# Calculator with OOP
 A python calculator (using calss & object)
 
 This tutorial presents a learning exercise that outlines how to make a command-line calculator program in Python 3. This calculator will be able to perform only basic arithmetic, but the final step of this guide serves as a starting point for how you might improve the code to create a more robust calculator.
